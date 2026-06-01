@@ -505,7 +505,7 @@ if page == "🏠 Dashboard":
     st.markdown("""
     <div class="top-banner">
         <h1>🎓 Hybrid Decision Support System</h1>
-        <p>Rekomendasi Peserta Beasiswa Studi Luar Negeri · SPK SI-D · 2024</p>
+        <p>Rekomendasi Peserta Beasiswa Studi Luar Negeri · SPK SI-D ·</p>
         <br>
         <span class="tag">Random Forest</span>
         <span class="tag">TOPSIS MCDM</span>
